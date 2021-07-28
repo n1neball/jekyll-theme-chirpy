@@ -5,4 +5,9 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+*Hello Cyberhood!*
+
+I am Caroline, a cybersecurity practitioner and defender of the Cyber Hood.
+I started my journey in cybersecurity a few months ago and have learnt quite a lot since then.This blog is my way of sharing my knowledge with the world.
+
+Thanks for stopping by.
